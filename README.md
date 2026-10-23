@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/guruprasath-s-b/leet-code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/guruprasath-s-b/leet-code/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/guruprasath-s-b/leet-code/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guruprasath-s-b/leet-code/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/guruprasath-s-b/leet-code/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
