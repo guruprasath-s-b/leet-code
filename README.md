@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/guruprasath-s-b/leet-code/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/guruprasath-s-b/leet-code/tree/master/0326-power-of-three) |
+| [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
