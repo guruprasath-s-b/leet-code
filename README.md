@@ -69,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
